@@ -1,0 +1,1 @@
+{"name": "DB", "seed": 1, "params": 480784, "train_time_per_epoch_s": 16.221639601389565, "model_kwargs": {"dilations": [1, 3]}}
